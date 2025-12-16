@@ -10,5 +10,5 @@ int main() {
     cout << grade << endl;
     cout << letter;
     return 0;
-
+}
 
