@@ -1,0 +1,24 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    // declaring and initializing an array of size 5
+    int arr[5] = {2, 4, 8, 12, 16};
+
+    // printing array elements
+    for (int i = 0; i < 5; i++) {
+        cout << arr[i] << " ";
+    }
+    cout << endl;
+
+    arr[3] = 10;
+   
+     for (int i = 0; i < 5; i++) {
+        cout << arr[i] << " ";
+     }
+
+cout << sizeof(arr)/sizeof(arr[0]) << endl;
+ 
+cout << arr[0] << endl;
+    return 0;
+}
