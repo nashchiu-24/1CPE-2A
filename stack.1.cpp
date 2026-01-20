@@ -4,12 +4,13 @@ using namespace std;
 
 int main() {
     stack<string> actions;
+    string arr[] = {"Open File", "Edit File", "Save File"};
+    
+    for (int i = 0; i < 3; i++) {
+        actions.push(arr[i]);
+    }
 
-        actions.push("Open File");
-            actions.push("Edit File");
-                actions.push("Save File");
-
-                    cout << "Last action: " << actions.top() << endl;
+    cout << "Last action: " << actions.top() << endl;
                         actions.pop();
                             cout << "After undo, current action: " << actions.top() << endl;
 

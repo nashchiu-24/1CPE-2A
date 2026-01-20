@@ -1,0 +1,60 @@
+task 1 create an integer array composing of 10 elements with values ranging from 20 to 60 wag makiki kopya sa gawa ng 
+iba (unsorted) part 2 display the array for lopp unsorted
+
+task 2 gumawa ng 1 stack and 1 queue (20 items )na ma stostore ang initial ng  gagamit ng insert function sa queue and stock,
+ mag pop sa both stack ng tatlong beses den isdisplay ang content ng stack at queue and verify if may laman or wala
+
+task 3 pagsamahin ang content ng stack at queue sa isang container stack muna then queue 14 container 
+ tawagin na data merging and print result 
+
+task 4 gumawa ng apat na sorting algorthm function na pwede tawagagin  na pwede magpasok ng array yung content ng data merging ang 
+ipapasok 
+
+task 5 chrono na function between ng running ng apat na sorting estimate the time complexity ng run ng sorting 
+algorithm nang apat na sorting na napili ulitin na apat na beses 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
